@@ -1,0 +1,7 @@
+-user authentication: signup, login, logout
+-CRUD operations: create, read, update, delete notes
+-Responsive UI builds with HTML, css, Js
+-MySQL database with otimized queries for 100+notes
+-form validation
+-backend: python
+-tools: git vscode
